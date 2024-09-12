@@ -1,0 +1,98 @@
+[
+    {
+      "title": "Which is the correct way to declare a variable in JavaScript?",
+      "answer_1": "let myVariable;",
+      "answer_2": "var myVariable;",
+      "answer_3": "const myVariable;",
+      "answer_4": "All of the above",
+      "right_answer": "All of the above"
+    },
+    {
+      "title": "How do you print something to the console in JavaScript?",
+      "answer_1": "console.write('Hello');",
+      "answer_2": "console.print('Hello');",
+      "answer_3": "console.log('Hello');",
+      "answer_4": "console.output('Hello');",
+      "right_answer": "console.log('Hello');"
+    },
+    {
+      "title": "Which function is used to convert a string to an integer in JavaScript?",
+      "answer_1": "parseFloat()",
+      "answer_2": "parseInt()",
+      "answer_3": "toNumber()",
+      "answer_4": "Number()",
+      "right_answer": "parseInt()"
+    },
+    {
+      "title": "What is the correct way to create a function in JavaScript?",
+      "answer_1": "function myFunction() {}",
+      "answer_2": "def myFunction() {}",
+      "answer_3": "func myFunction() {}",
+      "answer_4": "function:myFunction() {}",
+      "right_answer": "function myFunction() {}"
+    },
+    {
+      "title": "What is the result of typeof null in JavaScript?",
+      "answer_1": "null",
+      "answer_2": "undefined",
+      "answer_3": "object",
+      "answer_4": "number",
+      "right_answer": "object"
+    },
+    {
+      "title": "Which of the following can be used to iterate over an array in JavaScript?",
+      "answer_1": "foreach",
+      "answer_2": "forEach()",
+      "answer_3": "for loop",
+      "answer_4": "All of the above",
+      "right_answer": "All of the above"
+    },
+    {
+      "title": "How do you access an element with the ID myElement in the DOM?",
+      "answer_1": "document.getElement('myElement')",
+      "answer_2": "document.querySelector('#myElement')",
+      "answer_3": "document.getElementById('myElement')",
+      "answer_4": "document.getById('myElement')",
+      "right_answer": "document.getElementById('myElement')"
+    },
+    {
+      "title": "Which method adds a new element to the end of an array in JavaScript?",
+      "answer_1": "array.add()",
+      "answer_2": "array.push()",
+      "answer_3": "array.append()",
+      "answer_4": "array.insert()",
+      "right_answer": "array.push()"
+    },
+    {
+      "title": "How do you prevent the default behavior of an event in JavaScript?",
+      "answer_1": "event.stop()",
+      "answer_2": "event.preventDefault()",
+      "answer_3": "event.prevent()",
+      "answer_4": "event.stopPropagation()",
+      "right_answer": "event.preventDefault()"
+    },
+    {
+      "title": "What is the correct way to create an object in JavaScript?",
+      "answer_1": "var obj = {};",
+      "answer_2": "var obj = [];",
+      "answer_3": "var obj = ();",
+      "answer_4": "var obj = <>;",
+      "right_answer": "var obj = {};"
+    },
+    {
+      "title": "Which of the following is used to check a condition in JavaScript?",
+      "answer_1": "if (condition)",
+      "answer_2": "when (condition)",
+      "answer_3": "unless (condition)",
+      "answer_4": "check (condition)",
+      "right_answer": "if (condition)"
+    },
+    {
+      "title": "How do you execute code after a certain period using JavaScript?",
+      "answer_1": "setTimeout()",
+      "answer_2": "setInterval()",
+      "answer_3": "wait()",
+      "answer_4": "delay()",
+      "right_answer": "setTimeout()"
+    }
+  ]

@@ -1,0 +1,98 @@
+[
+    {
+      "title": "Which of the following is the correct way to define a function in Python?",
+      "answer_1": "function myFunction():",
+      "answer_2": "def myFunction():",
+      "answer_3": "func myFunction():",
+      "answer_4": "define myFunction():",
+      "right_answer": "def myFunction():"
+    },
+    {
+      "title": "How do you print text in Python?",
+      "answer_1": "print 'Hello'",
+      "answer_2": "echo('Hello')",
+      "answer_3": "write('Hello')",
+      "answer_4": "print('Hello')",
+      "right_answer": "print('Hello')"
+    },
+    {
+      "title": "How do you create a list in Python?",
+      "answer_1": "myList = {1, 2, 3}",
+      "answer_2": "myList = [1, 2, 3]",
+      "answer_3": "myList = (1, 2, 3)",
+      "answer_4": "myList = <1, 2, 3>",
+      "right_answer": "myList = [1, 2, 3]"
+    },
+    {
+      "title": "How do you iterate over items in a list in Python?",
+      "answer_1": "for x in myList:",
+      "answer_2": "foreach x in myList:",
+      "answer_3": "while x in myList:",
+      "answer_4": "repeat x in myList:",
+      "right_answer": "for x in myList:"
+    },
+    {
+      "title": "Which of the following is a correct data type in Python?",
+      "answer_1": "integer",
+      "answer_2": "decimal",
+      "answer_3": "float",
+      "answer_4": "character",
+      "right_answer": "float"
+    },
+    {
+      "title": "Which function is used to calculate the length of a list in Python?",
+      "answer_1": "size()",
+      "answer_2": "count()",
+      "answer_3": "length()",
+      "answer_4": "len()",
+      "right_answer": "len()"
+    },
+    {
+      "title": "How do you create a dictionary in Python?",
+      "answer_1": "myDict = [key1: value1, key2: value2]",
+      "answer_2": "myDict = {key1: value1, key2: value2}",
+      "answer_3": "myDict = (key1: value1, key2: value2)",
+      "answer_4": "myDict = <key1: value1, key2: value2>",
+      "right_answer": "myDict = {key1: value1, key2: value2}"
+    },
+    {
+      "title": "Which of the following is a conditional statement in Python?",
+      "answer_1": "if",
+      "answer_2": "do",
+      "answer_3": "for",
+      "answer_4": "repeat",
+      "right_answer": "if"
+    },
+    {
+      "title": "How do you import a module in Python?",
+      "answer_1": "use math",
+      "answer_2": "import math",
+      "answer_3": "include math",
+      "answer_4": "require math",
+      "right_answer": "import math"
+    },
+    {
+      "title": "Which of the following is used to handle errors in Python?",
+      "answer_1": "error {}",
+      "answer_2": "try: except:",
+      "answer_3": "catch error:",
+      "answer_4": "trap error:",
+      "right_answer": "try: except:"
+    },
+    {
+      "title": "How do you remove an item from a list in Python?",
+      "answer_1": "myList.delete(2)",
+      "answer_2": "del myList(2)",
+      "answer_3": "myList.remove(2)",
+      "answer_4": "myList.pop(2)",
+      "right_answer": "myList.remove(2)"
+    },
+    {
+      "title": "How do you create an infinite loop in Python?",
+      "answer_1": "while True:",
+      "answer_2": "for x in range(0, infinity):",
+      "answer_3": "while x != 0:",
+      "answer_4": "for True:",
+      "right_answer": "while True:"
+    }
+  ]

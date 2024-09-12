@@ -1,0 +1,98 @@
+[
+    {
+      "title": "Which property is used to change the text color in CSS?",
+      "answer_1": "color",
+      "answer_2": "text-color",
+      "answer_3": "font-color",
+      "answer_4": "background-color",
+      "right_answer": "color"
+    },
+    {
+      "title": "Which property is used to change the font size in CSS?",
+      "answer_1": "font-weight",
+      "answer_2": "font-style",
+      "answer_3": "font-size",
+      "answer_4": "text-size",
+      "right_answer": "font-size"
+    },
+    {
+      "title": "How do you add padding around the content in CSS?",
+      "answer_1": "padding",
+      "answer_2": "margin",
+      "answer_3": "border",
+      "answer_4": "spacing",
+      "right_answer": "padding"
+    },
+    {
+      "title": "Which property is used to change the background color of an element in CSS?",
+      "answer_1": "background-image",
+      "answer_2": "background-color",
+      "answer_3": "background-style",
+      "answer_4": "background-texture",
+      "right_answer": "background-color"
+    },
+    {
+      "title": "Which property controls the width of borders in CSS?",
+      "answer_1": "border-width",
+      "answer_2": "border-style",
+      "answer_3": "border-color",
+      "answer_4": "border-display",
+      "right_answer": "border-width"
+    },
+    {
+      "title": "Which property makes the text italic in CSS?",
+      "answer_1": "text-transform",
+      "answer_2": "font-style",
+      "answer_3": "font-weight",
+      "answer_4": "text-align",
+      "right_answer": "font-style"
+    },
+    {
+      "title": "Which property is used to define the space between elements?",
+      "answer_1": "padding",
+      "answer_2": "margin",
+      "answer_3": "spacing",
+      "answer_4": "gap",
+      "right_answer": "margin"
+    },
+    {
+      "title": "Which property is used to set a background image in CSS?",
+      "answer_1": "background",
+      "answer_2": "background-image",
+      "answer_3": "background-color",
+      "answer_4": "background-position",
+      "right_answer": "background-image"
+    },
+    {
+      "title": "Which property is used to define the width of an element?",
+      "answer_1": "height",
+      "answer_2": "length",
+      "answer_3": "width",
+      "answer_4": "size",
+      "right_answer": "width"
+    },
+    {
+      "title": "How can you make an element transparent in CSS?",
+      "answer_1": "display",
+      "answer_2": "visibility",
+      "answer_3": "opacity",
+      "answer_4": "transparent",
+      "right_answer": "opacity"
+    },
+    {
+      "title": "Which property controls the horizontal alignment of text?",
+      "answer_1": "text-align",
+      "answer_2": "text-indent",
+      "answer_3": "text-decoration",
+      "answer_4": "text-spacing",
+      "right_answer": "text-align"
+    },
+    {
+      "title": "Which property controls the spacing between characters in text?",
+      "answer_1": "word-spacing",
+      "answer_2": "line-height",
+      "answer_3": "letter-spacing",
+      "answer_4": "text-spacing",
+      "right_answer": "letter-spacing"
+    }
+  ]
